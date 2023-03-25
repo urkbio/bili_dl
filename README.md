@@ -1,4 +1,5 @@
 - 让chat GPT给写的一个命令行中使用的youtube视频下载器。
+- 使用rust语言
 - 需要youtube-dl
 - 输入youtube视频链接回车即可下载
 
